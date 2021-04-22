@@ -17,7 +17,7 @@ http://some-server-address/codenjoy-contest/board/player/u1apyj3djrfgguunpxw0?co
 В клиенте в файле **CodeBattleJs.html** (CodeBattleJS/CodeBattleJs.html) вы увидите строку **var gcb = new GameClient** в которой ссылку нужно изменить на свою: 
 
 ```javascript
-var gcb = new GameClient("https://dojorena.io/codenjoy-contest/board/player/dojorena195?code=4709782870748562346")
+var gcb = new GameClient("https://dojorena.io/codenjoy-contest/board/player/dojorena389?code=8627381546352283875")
 ```
 
 После этого вы можете открыть этот файл в любом браузере и, таким образом, начать игру.
